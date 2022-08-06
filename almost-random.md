@@ -1,4 +1,4 @@
-# Get a random number more 'randomly'.
+# GET A 'RANDOM NUMBER' MORE 'RANDOMLY'
 
 ### Where did this idea came from
 
